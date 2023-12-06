@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">Android developer</h3>
-<img align="right" alt="Coding" width="400" src=https://www.cobalt.io/hubfs/Imported_Blog_Media/android-light-1.png"></img>
+<img align="right" alt="Coding" width="400" src="https://www.cobalt.io/hubfs/Imported_Blog_Media/android-light-1.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihadildarov&label=Profile%20views&color=0e75b6&style=flat" alt="nihadildarov" /> </p>
 
